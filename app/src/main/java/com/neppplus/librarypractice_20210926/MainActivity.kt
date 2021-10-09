@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-        val imageURL = "http://img.insight.co.kr/static/2019/11/24/700/9i3h6m4fw1vgh4t0a82t.jpg"
+        val imageURL = "https://cdn.entermedia.co.kr/news/photo/201401/3076_7662_1018.jpg"
 
 //        인터넷주소에 있는 이미지를 -> actionImg에 보여주기 (Glide) -> 인터넷 다운 (데이터요금 사용) -> 권한 필요
         Glide.with(this).load(imageURL).into(actionImg)
