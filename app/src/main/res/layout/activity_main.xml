@@ -19,13 +19,13 @@
             android:layout_width="100dp"
             android:layout_height="100dp"
             app:civ_border_width="2dp"
-            android:src="@drawable/iu_pic" />
+            android:src="@drawable/jjh_pic" />
 
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="아이유"
+            android:text="전지현"
             android:layout_marginTop="5dp"/>
 
     </LinearLayout>
